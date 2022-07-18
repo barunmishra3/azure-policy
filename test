@@ -259,6 +259,9 @@ Mitigation: update the policy assignment's effect to 'Disabled'.
 ### Microsoft.Kubernetes.Data policies that evaluate containers do not currently support container exclusions.  
 This issue has been resolved. 
 
+
+////
+
 *This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.*
 
 ### Resource types that do not display non-compliance messages in the portal during preflight validation   
